@@ -1,0 +1,12 @@
+.incard{
+    text-align: center;
+    border:solid;
+    width:50vm; 
+}
+.maincard{
+    padding-left: 25vw;
+    padding-right: 12.5vw;
+}
+.button{
+    border-radius: 15px;
+}
